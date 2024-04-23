@@ -10,7 +10,8 @@ test_fun <- function(num) {
 }
 
 test_fun(2)
-test_fun(-3)
+test_fun(-5)
+test_fun(-16)
 test_fun(0)
 
 ## ADDING A NEW SECTION TO SEE HOW MINIMAP LOOKS
